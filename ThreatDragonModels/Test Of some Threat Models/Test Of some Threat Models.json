@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test Of some Threat Models",
+    "owner": "TestUserForSomeCode",
+    "description": "There may be threats that need to be reviewed"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "TestDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
